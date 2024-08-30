@@ -1,0 +1,96 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: kanit;
+  color: white;
+}
+body {
+  background-color: #030e87;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  background-color: #091160;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+/* Biodata Diri */
+
+.ainulfuady h1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+.ainulfuady img {
+  width: 150px;
+  height: 150px;
+  margin-top: 1rem;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.ainulfuady img:hover {
+  width: 315px;
+  height: 315px;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+}
+
+.ainulfuady p {
+  line-height: 1.8rem;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+/* Biodata Teman */
+
+.biodatateman img {
+  width: 150px;
+  height: 150px;
+  margin-top: 1rem;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.biodatateman img:hover {
+  width: 315px;
+  height: 315px;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+}
+
+.biodatateman table {
+  margin-bottom: 1rem;
+  line-height: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer img {
+  width: 80px;
+  height: 80px;
+}
+
+.footer .booting {
+  width: 70px;
+  height: 70px;
+}
